@@ -1,17 +1,10 @@
-## Notes
+Hosted WebSite link:  https://e-commerce-cv-project.netlify.app/
 
-#### Older React Version
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
-
-#### Current React Version
-
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
+About
+E-Commerce Website 
+Global State Management and API Handling
+ Context API (UseContext, useReducer)
+ React-Router-Dom
+  Hooks(All) 
+  Styled Components(CSS)
